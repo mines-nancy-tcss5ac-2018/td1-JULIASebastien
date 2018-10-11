@@ -1,5 +1,7 @@
+# Ce fichier n'est pas la version d√©finitive de ma proposition de solution pour l'exercice 55 d'Euler : c'est le fichier qui s'intitule "Exercice 55 Euler bis" qui l'est.
+
 def miroir(x):
-    #retourne le nombre renversÈ par rapport ‡ x
+    #retourne le nombre renvers√© par rapport √† x
     
     
 def est_palindrome(x):
@@ -7,7 +9,7 @@ def est_palindrome(x):
 
 
 def solve(n):
-    # retourne le nombre de nombres de Lychrel qui sont infÈrieurs ‡ n
+    # retourne le nombre de nombres de Lychrel qui sont inf√©rieurs √† n
     while i < 50 :
         x_1 = miroir(x)
         
